@@ -1,0 +1,13 @@
+C:\Users\kdrgn\source\repos\MyUdemy-C#-20Projects\Project13_WeatherApp\bin\Debug\Project13_WeatherApp.exe.config
+C:\Users\kdrgn\source\repos\MyUdemy-C#-20Projects\Project13_WeatherApp\bin\Debug\Project13_WeatherApp.exe
+C:\Users\kdrgn\source\repos\MyUdemy-C#-20Projects\Project13_WeatherApp\bin\Debug\Project13_WeatherApp.pdb
+C:\Users\kdrgn\source\repos\MyUdemy-C#-20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.csproj.AssemblyReference.cache
+C:\Users\kdrgn\source\repos\MyUdemy-C#-20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.Form1.resources
+C:\Users\kdrgn\source\repos\MyUdemy-C#-20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.Properties.Resources.resources
+C:\Users\kdrgn\source\repos\MyUdemy-C#-20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.csproj.GenerateResource.cache
+C:\Users\kdrgn\source\repos\MyUdemy-C#-20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\kdrgn\source\repos\MyUdemy-C#-20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.exe
+C:\Users\kdrgn\source\repos\MyUdemy-C#-20Projects\Project13_WeatherApp\obj\Debug\Project13_WeatherApp.pdb
+C:\Users\kdrgn\source\repos\MyUdemy-C#-20Projects\Project13_WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kdrgn\source\repos\MyUdemy-C#-20Projects\Project13_WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kdrgn\source\repos\MyUdemy-C#-20Projects\Project13_WeatherApp\obj\Debug\Project1.A57692FC.Up2Date
